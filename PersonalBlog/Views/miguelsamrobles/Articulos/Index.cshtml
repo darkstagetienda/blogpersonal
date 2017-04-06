@@ -1,0 +1,11 @@
+﻿<div id="index">
+    <h1>Articulos</h1>
+    <h3>2016</h3>
+    @foreach (var i in @Model.articulos)
+    {
+        <article>
+            <h2><a href="@i.url">@i.titulo</a></h2>
+                @Html.Raw(@i.contenido1)
+        </article>
+    }
+</div>

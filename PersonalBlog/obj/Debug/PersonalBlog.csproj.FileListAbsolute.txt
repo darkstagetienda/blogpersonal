@@ -1,0 +1,78 @@
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\obj\Debug\PersonalBlog.csprojResolveAssemblyReference.cache
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\PersonalBlog.dll.config
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\PersonalBlog.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\PersonalBlog.pdb
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\Antlr3.Runtime.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\Microsoft.Web.Infrastructure.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\Newtonsoft.Json.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.Helpers.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.Mvc.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.Optimization.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.Razor.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.Deployment.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.Razor.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\WebGrease.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.Helpers.xml
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.Mvc.xml
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.Optimization.xml
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.Razor.xml
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.xml
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.Deployment.xml
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.Razor.xml
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\Antlr3.Runtime.pdb
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\bin\Newtonsoft.Json.xml
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\obj\Debug\PersonalBlog.dll
+c:\users\miguel\documents\visual studio 2013\Projects\PersonalBlog\PersonalBlog\obj\Debug\PersonalBlog.pdb
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\obj\Debug\PersonalBlog.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\PersonalBlog.dll.config
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\PersonalBlog.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\PersonalBlog.pdb
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\Antlr3.Runtime.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\Microsoft.Web.Infrastructure.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\Newtonsoft.Json.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.Helpers.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.Mvc.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.Optimization.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.Razor.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.Deployment.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.Razor.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\WebGrease.dll
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.Helpers.xml
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.Mvc.xml
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.Optimization.xml
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.Razor.xml
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.xml
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.Deployment.xml
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\System.Web.WebPages.Razor.xml
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\Antlr3.Runtime.pdb
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\bin\Newtonsoft.Json.xml
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\obj\Debug\PersonalBlog.pdb
+F:\data\170 blg oy cosas faltantes\PersonalBlog\PersonalBlog\obj\Debug\PersonalBlog.csprojResolveAssemblyReference.cache
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\PersonalBlog.dll.config
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\PersonalBlog.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\PersonalBlog.pdb
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\Antlr3.Runtime.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\Newtonsoft.Json.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.Helpers.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.Mvc.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.Optimization.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.Razor.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.WebPages.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\WebGrease.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.Helpers.xml
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.Mvc.xml
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.Optimization.xml
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.Razor.xml
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.WebPages.xml
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\Antlr3.Runtime.pdb
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\bin\Newtonsoft.Json.xml
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\obj\Debug\PersonalBlog.dll
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\obj\Debug\PersonalBlog.pdb
+C:\Users\miguel\Desktop\PersonalBlog1\PersonalBlog\obj\Debug\PersonalBlog.csprojResolveAssemblyReference.cache

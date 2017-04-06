@@ -1,0 +1,37 @@
+﻿
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<article class="post">
+    <div class="headline-wrap">
+
+        <h1><a href="@Model.url" rel="bookmark" 
+               title="">@Model.titulo</a></h1>
+
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+        <p class="meta">18 Agosto 2016</p>
+        @Html.Raw(@Model.contenido2)
+        <hr>
+        <!--<footer role="contentinfo">
+            <div class="social-share">
+                <h4>Share on</h4>
+                <ul>
+                    <li>
+                        <a href="https://twitter.com/intent/tweet?text=http://jonasboner.com/blogging-like-a-hacker-using-git-and-jekyll/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=http://jonasboner.com/blogging-like-a-hacker-using-git-and-jekyll/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+                    </li>
+                    <li>
+                        <a href="https://plus.google.com/share?url=http://jonasboner.com/blogging-like-a-hacker-using-git-and-jekyll/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+                    </li>
+                </ul>
+            </div><!-- /.social-share -->
+        <!--</footer>-->
+    </div><!-- /.article-wrap -->
+
+</article>
+
