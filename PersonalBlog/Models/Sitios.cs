@@ -18,6 +18,8 @@ namespace PersonalBlog.Models
                 //articulos = Directory.GetFiles(HttpContext.Current.Server.MapPath("/xml"));
         }
    
+
+
         public int TenantID { get; set; }
         public string Url { get; set; }
         public string FolderName { get; set; }
