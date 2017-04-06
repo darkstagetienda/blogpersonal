@@ -20,6 +20,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -145,7 +146,6 @@
     <Content Include="Content\2\js\jquery.scrollUp.min.js" />
     <Content Include="Content\2\js\main.js" />
     <Content Include="Content\2\js\price-range.js" />
-    <Content Include="Content\2\maxresdefault.jpg" />
     <Content Include="Content\2\tinymce\changelog.txt" />
     <Content Include="Content\2\tinymce\examples\css\content.css" />
     <Content Include="Content\2\tinymce\examples\css\word.css" />
@@ -548,14 +548,6 @@
     <Content Include="Content\site1\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="Content\2\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\2\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="Content\2\ga.js" />
-    <Content Include="Content\2\inpage_linkid.js" />
-    <Content Include="Content\2\jonas-speaking.jpg" />
-    <Content Include="Content\2\jonas_color_small.jpg" />
-    <Content Include="Content\2\jquery.min.js" />
-    <Content Include="Content\2\main.css" />
-    <Content Include="Content\2\modernizr-2.7.1.custom.min.js" />
-    <Content Include="Content\2\scripts.min.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -584,6 +576,7 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="Views\miguelsamrobles\favicon.ico" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

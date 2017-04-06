@@ -32,7 +32,6 @@ namespace PersonalBlog.Models
             else
                 host = HttpContext.Current.Request.Url.Host.ToLower().Replace("www.", "");
             return host;
-
         }
         public List<Articulo> articulos { get; set; }
 
