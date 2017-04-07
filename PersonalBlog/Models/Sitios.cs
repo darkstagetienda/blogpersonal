@@ -17,13 +17,11 @@ namespace PersonalBlog.Models
         {
                 //articulos = Directory.GetFiles(HttpContext.Current.Server.MapPath("/xml"));
         }
-   
-
-
         public int TenantID { get; set; }
         public string Url { get; set; }
         public string FolderName { get; set; }
 
+        public string ContentFolder { get; set; }
         public string getCurrentHost()
         {
             string host;
@@ -52,14 +50,16 @@ namespace PersonalBlog.Models
                                    TenantID = 1,
                                    Url = "miguelsamrobles.com",
                                    FolderName = "miguelsamrobles",
-                                   articulos = articulo.All("/Content/2/xml")
+                                   articulos = articulo.All("/Content/2/xml"),
+                                   ContentFolder = "/Content/2/xml"
                                },
                            new Sitios
                                 {
                                     TenantID = 2,
                                     Url = "codigoescalable.com",
                                     FolderName = "codigoescalable",
-                                    articulos = articulo.All("/Content/2/xml")
+                                    articulos = articulo.All("/Content/3/xml"),
+                                    ContentFolder = "/Content/3/xml"
                                 }
                        };
         }

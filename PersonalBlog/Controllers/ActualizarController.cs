@@ -6,17 +6,24 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using PersonalBlog.Models;
+using System.Web;
 namespace PersonalBlog.Controllers
 {
     public class ActualizarController : MultiSitiosController
     {
+        public ActualizarController()
+            {
+            sitios = new Sitios();
+            sitios = MvcApplication.sitios.Where(x => x.Url.Contains(sitios.getCurrentHost())).FirstOrDefault();
+        }
+        public Sitios sitios;
         // GET: Actualizar
         public ActionResult Index()
         {
-            Sitios model = new Sitios();
-            model = MvcApplication.sitios.Where(x => x.Url.Contains(HttpContext.Request.Url.Host.ToLower().Replace("www.", ""))).FirstOrDefault();
+            //Sitios model = new Sitios();
+            //model = MvcApplication.sitios.Where(x => x.Url.Contains(model.getCurrentHost())).FirstOrDefault();
 
-            return View(model);
+            return View(sitios);
         }
         [HttpPost]
         [ValidateInput(false)]
@@ -34,14 +41,17 @@ namespace PersonalBlog.Controllers
                 string result = "{\"titulo\":\"";
                 result += titulo;
                 result += "\",\"url\":\"";
-                result += url;
+                result += "/articulo/" + url;
                 result += "\",\"contenido1\":\"";
                 result += contenido1;
                 result += "\",\"contenido2\":\"";
                 result += contenido2+"\"}";
 
                 //buscar el file
-                System.IO.File.WriteAllText("D:\\_data\\deploy\\Content\\2\\xml\\mi primer articulo.txt", result);
+
+                string path = HttpContext.Server.MapPath(sitios.ContentFolder);
+                //System.IO.File.WriteAllText("D:\\_data\\deploy\\Content\\2\\xml\\mi primer articulo.txt", result);
+                System.IO.File.WriteAllText(path+ "\\"+url+".txt", result);
 
                 //actualizar
 
