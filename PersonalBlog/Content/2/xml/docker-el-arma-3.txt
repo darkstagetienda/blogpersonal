@@ -1,1 +1,1 @@
-{"titulo":"docker el arma 3","url":"/articulo/docker-el-arma-3","contenido1":"<p>vista rapida 3</p>","contenido2":"<p>contenido 3</p>"}
+{"titulo":"docker el arma 3","url":"/articulo/docker-el-arma-3","contenido1":"<p>vista rapida 3</p>","contenido2":"<p>contenido 3</p>","id":"20170409171037"}

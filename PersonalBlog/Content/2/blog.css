@@ -101,6 +101,7 @@ h6, .h6 {
 .blog-main {
   font-size: 18px;
   line-height: 1.5;
+  text-align:justify;
 }
 
 /* Sidebar modules for boxing content */

@@ -1,0 +1,26 @@
+﻿@using PersonalBlog.Models
+@model PersonalBlog.Models.Sitios
+@{
+    ViewBag.Title = "All Events";
+}
+
+<h2>All Available Events</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Titulo</th>
+            <th>Url</th>
+            <th></th>
+        </tr>
+    </thead>
+    @foreach (var ar in Model.articulos)
+    {
+        <tr>
+            <td><a href="/admin/editar/@ar.id">@ar.titulo</a></td>
+            <td>@ar.url</td>
+        </tr>
+    }
+</table>
+
+@Html.ActionLink("Crear articulo", "crear", null, new { @class = "btn btn-primary" })

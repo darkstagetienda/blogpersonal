@@ -84,6 +84,7 @@ namespace PersonalBlog.Models
                 articulo.url = GetValue("url", obj);
                 articulo.contenido1 = GetValue("contenido1", obj);
                 articulo.contenido2 = GetValue("contenido2", obj);
+                articulo.id = GetValue("id", obj);
                 articulos.Add(articulo);
             }
 
@@ -110,6 +111,7 @@ namespace PersonalBlog.Models
         public string url { get; set; }
         public string contenido1 { get; set; }
         public string contenido2 { get; set; }
+        public string id { get; set; }
 
     }
 }

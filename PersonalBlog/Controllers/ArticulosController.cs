@@ -13,7 +13,7 @@ namespace PersonalBlog.Controllers
         public ActionResult Index()
         { 
             Sitios model = new Sitios();
-            model = MvcApplication.sitios.Where(x => x.Url.Contains(HttpContext.Request.Url.Host.ToLower().Replace("www.", ""))).FirstOrDefault();
+            model = MvcApplication.sitios.Where(x => x.Url.Contains(model.getCurrentHost())).FirstOrDefault();
             //var Model2 = MvcApplication.sitios.Where(x => x.Url.Contains(HttpContext.Request.Url.Host.ToLower().Replace("www.", ""))).FirstOrDefault();
             return View(model);
         }

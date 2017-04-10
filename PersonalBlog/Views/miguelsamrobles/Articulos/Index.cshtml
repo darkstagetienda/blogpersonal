@@ -1,4 +1,6 @@
-﻿<div id="index">
+﻿@using PersonalBlog.Models
+@model PersonalBlog.Models.Sitios
+<!--<div id="index">
     <h1>Articulos</h1>
     <h3>2016</h3>
     @foreach (var i in @Model.articulos)
@@ -8,4 +10,14 @@
                 @Html.Raw(@i.contenido1)
         </article>
     }
-</div>
+</div>-->
+
+<h3>2016</h3>
+@foreach (var item in Model.articulos)
+{ <!--fecha y autor faltan en el modelo-->
+    <div class="blog-post">
+        <h2 class="blog-post-title"><a href="@item.url">@item.titulo</a></h2>
+        <p class="blog-post-meta">January 1, 2014</p>
+        <div class="text-justify ">@Html.Raw(@item.contenido1)</div>
+    </div>
+}

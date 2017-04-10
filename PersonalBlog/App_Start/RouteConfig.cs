@@ -22,7 +22,11 @@ namespace PersonalBlog
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
-
+            routes.MapRoute(
+    name: "admin",
+    url: "admin/{id}",
+    defaults: new { controller = "Admin", action = "editar", id = UrlParameter.Optional }
+);
         }
     }
 }

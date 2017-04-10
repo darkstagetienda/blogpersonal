@@ -43,6 +43,7 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -113,6 +114,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\ActualizarController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\ArticuloController.cs" />
     <Compile Include="Controllers\ArticulosController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -126,6 +128,7 @@
     <Compile Include="MotorVista\MultiSitioMotorVista.cs" />
     <Compile Include="MultiSitio\MultiSitiosController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\ApplicationPoolRecycle.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\2\blog.css" />
@@ -594,8 +597,6 @@
     <Content Include="Views\miguelsamrobles\Shared\_Layout.cshtml" />
     <Content Include="Views\codigoescalable\Home\Index.cshtml" />
     <Content Include="Views\codigoescalable\Shared\_Layout.cshtml" />
-    <Content Include="Views\Shared\Error.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\miguelsamrobles\Articulos\Index.cshtml" />
     <Content Include="Views\Global\Articulos\Index.cshtml" />
     <Content Include="Views\codigoescalable\Articulos\Index.cshtml" />
@@ -605,6 +606,9 @@
     <Content Include="Views\codigoescalable\Articulo\Index.cshtml" />
     <Content Include="Views\Global\Actualizar\Index.cshtml" />
     <Content Include="Views\miguelsamrobles\Actualizar\Index.cshtml" />
+    <Content Include="Views\miguelsamrobles\Admin\Index.cshtml" />
+    <Content Include="Views\miguelsamrobles\Admin\crear.cshtml" />
+    <Content Include="Views\miguelsamrobles\Admin\Editar.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
